@@ -1,4 +1,9 @@
 # Keyboardcontroller
+It´s a keyboard with the objective of being a leverless controller
+![Schematic](https://github.com/user-attachments/assets/32580248-adb3-4259-b6c0-497a3afe9371)
+![PCB](https://github.com/user-attachments/assets/4ed47144-79f3-4b0f-b062-ef88c275d70e)
+![imagell fitted togheter](https://github.com/user-attachments/assets/2b8572f6-10e0-4168-a830-83d8aad50959)
+
 
 ## BOM
 | Part                                 | Quantity | Price  | Link                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Notes                                                      |
