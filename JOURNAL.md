@@ -34,6 +34,6 @@ created_at: "2025-05-29"
 
 [I finished doing the CAD doing the bottom part and the buttons with the addition of solving the top part, I figured out I didn´t need to do the screw part and I will just drill them myself. I´m very happy to finish the project and built it!!]
 
-[!(https://github.com/user-attachments/assets/fb74ddd7-e115-4573-b58f-7cf731f92315)]
+[![image](https://github.com/user-attachments/assets/fb74ddd7-e115-4573-b58f-7cf731f92315)]
 
 **Total time spent: 2h**
