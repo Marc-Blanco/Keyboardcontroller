@@ -11,6 +11,8 @@ PCB
 All fitted togheter
 ![imagell fitted togheter](https://github.com/user-attachments/assets/2b8572f6-10e0-4168-a830-83d8aad50959)
 
+# Firmware
+I found already done Firmware for raspberrypi picos https://github.com/OpenStickCommunity/GP2040-CE?tab=readme-ov-file
 
 ## BOM
 | Part                                 | Quantity | Price  | Link                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          | Notes                                                      |
