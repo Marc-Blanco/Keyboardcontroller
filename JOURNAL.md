@@ -9,7 +9,7 @@ created_at: "2025-05-29"
 
 [I finished the schematics of the project, also found great footprints, I got really frustrated in the beginning. If I want to do a levered I'll have to find footprints or even make them, I don't really know]
 
-[image(https://github.com/user-attachments/assets/606cc487-727c-48d8-ab47-bc1feda98550]
+[![image](https://github.com/user-attachments/assets/606cc487-727c-48d8-ab47-bc1feda98550)]
 
 **Total time spent: 2.5h**
 
@@ -17,7 +17,7 @@ created_at: "2025-05-29"
 
 [I finished the pcb and added details really happy with the result, spent a lot of time on it and really maked sure to get the measuraments right, next CAD]
 
-[!(https://github.com/user-attachments/assets/6a86f809-76d4-43f2-b515-ff537184e691)]
+[![image](https://github.com/user-attachments/assets/6a86f809-76d4-43f2-b515-ff537184e691)]
 
 **Total time spent: 4.2h**
 
