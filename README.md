@@ -12,6 +12,11 @@ All fitted togheter
 ![imagell fitted togheter](https://github.com/user-attachments/assets/2b8572f6-10e0-4168-a830-83d8aad50959)
 <img src="https://github.com/user-attachments/assets/02ad2bb6-aa20-4ea1-8657-6b47cc95e837" />
 
+## Assembly
+Still need parts but looks very clean
+<img width="1536" height="2040" alt="image" src="https://github.com/user-attachments/assets/dca2938f-f8c5-4bdd-821b-10003554fc31" />
+
+
 
 # Firmware
 I found already done Firmware for raspberrypi picos https://github.com/OpenStickCommunity/GP2040-CE?tab=readme-ov-file
