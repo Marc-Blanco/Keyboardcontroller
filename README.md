@@ -1,4 +1,5 @@
-# Keyboardcontroller
+# Keyboardcontroller 
+15hr
 It´s a keyboard with the objective of being a leverless controller inspired by the arcade controllers specially designed for playing fgc games. All controlled with a raspberrypi PICO.
 
 ## PCB
