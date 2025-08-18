@@ -1,8 +1,9 @@
 ---
 title: "Keybox"
-author: "Your name (name or slack username)"
+author: "Ryuo"
 description: "I want to do a leverless controller kind of like the hitbox!"
 created_at: "2025-05-29"
+Total hours: "15"
 ---
 
 # May 29th: Made the schematic!
